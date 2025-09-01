@@ -19,8 +19,8 @@ Here are some of the tools and utilities I’ve developed:
 -   **[Wallpaper Manager](https://github.com/Toymakerftw/Wallpaper)**  
     Automatically update your desktop wallpaper from GitHub releases—perfect for a fresh look every day.
     
--   **[Recycler](https://github.com/Toymakerftw/Recycler)**  
-    A Go-based CLI tool for managing your trash, inspired by `trash-cli`, but with additional features to improve workflow efficiency.
+-   **[Mothership](https://github.com/Toymakerftw/mothership)**  
+    Mothership is an AI-powered Android app that turns your natural language ideas into complete, installable Progressive Web Apps..
     
 
 ----------
